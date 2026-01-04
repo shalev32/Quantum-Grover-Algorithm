@@ -6,7 +6,6 @@
 [![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat&logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter)](https://jupyter.org/)
 [![IBM Quantum](https://img.shields.io/badge/IBM-Quantum-1F70C1?style=flat)](https://quantum.ibm.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Comprehensive implementation and analysis of quantum algorithms using IBM Qiskit, featuring both ideal simulator results and **real quantum hardware execution** on IBM's 156-qubit quantum processors.
 
